@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sayı Tahmin Oyunu</string>
+    <string name="txtMessageEmpty">Lütfen bir sayı giriniz</string>
+    <string name="txtMessageUp">Yukarı</string>
+    <string name="txtMessageDown">Aşağı</string>
+    <string name="txtMessageWin">Tebrikler kazanılan Puan : </string>
+    <string name="txtMessageLose">Malesef Bilemediniz cevap : </string>
+    <string name="txtPoint">Puan : </string>
+    <string name="txtScore">Skor : </string>
+</resources>
